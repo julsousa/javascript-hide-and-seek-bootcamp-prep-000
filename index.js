@@ -1,0 +1,3 @@
+funciton getFirstSelector(selector) {
+  
+}
